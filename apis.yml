@@ -31,6 +31,9 @@ description: Pellego is a real estate technology and brokerage platform serving 
   500 Global portfolio company and added to the API Evangelist network. No public API surface was
   found during enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/pellego/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API surface was found during enrichment."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
